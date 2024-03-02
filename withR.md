@@ -208,19 +208,23 @@ $ StepTotal.y      <dbl> 160, 221, 676, 89, 360, 338, 373, 253, 151, 1166, 0, 20
 
 
 ## Analyze & share  
+
 ![Picture1](https://github.com/TheAseel/Bellabeat-Case-Study/assets/144658487/a4993c4e-2c6f-4c1c-a00f-dec6b4237493)
 Finding: The relationship between total steps and calories burned shows a positive correlation, indicating that as the number of steps increases, the calories burned also increase.
 Implication: This finding emphasizes the significance of physical activity in calorie expenditure, presenting an opportunity for Bellabeat to promote and encourage active lifestyles among its users. By leveraging this positive relationship, the company can develop marketing strategies that highlight the calorie-burning benefits of their products.
 
-![image](https://github.com/TheAseel/Bellabeat-Case-Study/assets/144658487/a2f0a732-240b-4e30-a58b-90cf02d4a991)
+<img src="https://github.com/TheAseel/Bellabeat-Case-Study/assets/144658487/a2f0a732-240b-4e30-a58b-90cf02d4a991" alt="Picture2" width="500" height="400" />
+
 Finding: The analysis reveals a positive linear relationship between total time asleep and total time spent in bed. As the total time spent in bed increases, there is a corresponding increase in the total time asleep.
 Implication: there is a significance of adequate time spent in bed for achieving quality sleep. Bellabeat can leverage this insight to emphasize the importance of maintaining consistent and sufficient sleep routines for their customers.
 
-![image](https://github.com/TheAseel/Bellabeat-Case-Study/assets/144658487/e85abb17-9391-44e9-9c20-0860b2637f5c)
+<img src="https://github.com/TheAseel/Bellabeat-Case-Study/assets/144658487/e85abb17-9391-44e9-9c20-0860b2637f5c" alt="Picture2" width="500" height="400" />
+
 Based on the provided scatter plot, which shows the relationship between "Total Steps" and "Total Minutes Asleep" with the colour representing "Calories," there is Clustered Data, the scatter plot shows clusters of data points, indicating that certain combinations of total steps and total minutes asleep are more common than others. This clustering may suggest the presence of distinct groups or patterns within the data.
 Implications: The clustering of data points indicates that different lifestyle patterns may exist within the dataset. This information can be valuable for designing targeted interventions or tailored recommendations to improve physical activity levels and sleep habits based on individual preferences and needs.
 
-![Picture3](https://github.com/TheAseel/Bellabeat-Case-Study/assets/144658487/23ea56df-9649-4ebd-aa5a-68be55297d68)
+<img src="https://github.com/TheAseel/Bellabeat-Case-Study/assets/144658487/23ea56df-9649-4ebd-aa5a-68be55297d68" alt="Picture2" width="500" height="400" />
+
 Finding: Sunday and Saturday, being part of the weekend, have higher step counts, indicating that users are more active and engaged in physical activities during their leisure time. Tuesday stands out as a midweek day with higher step counts, suggesting that users are actively engaging in physical activity during the middle of the week.
 Implication: These findings provide valuable insights into users' behaviour and preferences regarding physical activity. Bellabeat can leverage this information to develop targeted content, challenges, or reminders that keep users motivated and engaged in physical activity on both weekends and midweek.
 
